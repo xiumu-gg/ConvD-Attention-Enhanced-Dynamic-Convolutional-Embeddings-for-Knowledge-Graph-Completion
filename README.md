@@ -1,0 +1,1 @@
+# ConvD-Attention-Enhanced-Dynamic-Convolutional-Embeddings-for-Knowledge-Graph-Completion
